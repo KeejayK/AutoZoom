@@ -1,4 +1,6 @@
-# AutoZoom
+# This is garbage code.
+
+## AutoZoom
 I was so bored during quarantine.
 
 Using the command prompt, I found a way to join my zoom classes with some classic python automation.
