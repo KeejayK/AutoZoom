@@ -1,6 +1,7 @@
 # This is garbage code.
 
-## AutoZoom
+## AutoZoom 
+#### Dependencies: sys, os, cx_freeze, time, schedule, pyautogui, PySide6, subprocess
 I was so bored during quarantine.
 
 Using the command prompt, I found a way to join my zoom classes with some classic python automation.
