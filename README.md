@@ -22,4 +22,4 @@ The A day and B day sections were a design choice to accomodate for the mcps hig
 
 ---
 
-This project was originally createdd 5/11/2021. 
+This project was originally created 5/11/2021. 
